@@ -15,11 +15,7 @@ pip install nbdev_tutorial
 Fill me in please! Don’t forget code examples:
 
 ``` python
-from nbdev_tutorial import *
+say_hello('ayn')
 ```
 
-``` python
-foo?
-```
-
-    Object `foo` not found.
+    'hello ayn'
