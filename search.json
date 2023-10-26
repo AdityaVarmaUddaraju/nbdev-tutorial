@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "start",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nsay hello to somebody\n\nsay_hello('ayn')\n\n'hello ayn'\n\n\n\nassert say_hello('x') == 'hello x'\n\n\ntest_eq(say_hello('x'), 'hello x')\n\n\nsource\n\n\nHelloSayer\n\n HelloSayer (to)\n\nsay hello to to using say_hello\n\nsource\n\n\nHelloSayer.say\n\n HelloSayer.say ()\n\nDo the saying\n\no = HelloSayer('Alexis')\no.say()\n\n'hello Alexis'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-tutorial",
+    "section": "",
+    "text": "Getting started guide on how to use nbdev for python package development"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nsay_hello('ayn')\n\n'hello ayn'"
+  }
+]
